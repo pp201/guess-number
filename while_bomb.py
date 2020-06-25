@@ -1,7 +1,7 @@
 import random
 
 n = random.randint(1,10)
-i = 10
+i = 5
 
 while i>0:	
 	i = i - 1
